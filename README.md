@@ -40,8 +40,8 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   
   ## 📊 Mi Actividad
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bintidev&show_icons=true&theme=merko" alt="stats" style="width: 445px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintidev&theme=merko&date_format=j.n.Y" alt="streak" style="width: 465.55px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintidev&show_icons=true&theme=merko" alt="stats" style="width: 365px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintidev&theme=merko&date_format=j.n.Y" alt="streak" style="width: 375.55px;"/>
   
 </div>
 
