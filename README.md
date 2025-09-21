@@ -73,6 +73,6 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   
   ### ¿Te has quedado con ganas de más?
   Acompáñame en este viaje de crecimiento y lleno de <br>
-  oportunidades por descubrir pasándote por <a href="https://github.com/bintidev" alt="Mi perfil">aquí</a> <3
+  oportunidades por descubrir pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
   
 </div>
