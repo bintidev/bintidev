@@ -34,7 +34,6 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
 </div>
 
 <br>
-<br>
 
 <div align="center">
   
@@ -48,11 +47,10 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
 <br>
 
 ## 💭 Estoy siempre dispuesta a...
-  - Aprender nuevas tecnologías, técnicas y herramientas ade</li>
-  - Poner a prueba mi pensamiento lógico con diferentes retos de programación</li>
-  - Pulir y perfeccionar el funcionmiento y apariencia de mis proyectos</li>
-  - Recibir críticas constructivas y sugerencias para mejorar mi estilo de trabajo</li>
-  - Conectar con miembros de la comunidad de los que adquirir nuevas habilidades</li>
+  - Poner a prueba mi pensamiento lógico con diferentes retos de programación
+  - Pulir y perfeccionar la funcionalidad, estructura y visibilidad de mis proyectos
+  - Recibir críticas constructivas y sugerencias para mejorar mi estilo de trabajo
+  - Conectar con miembros de la comunidad de los que adquirir nuevas habilidades
 
 <br>
 <br>
