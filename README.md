@@ -80,6 +80,4 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   Acompáñame en este viaje de crecimiento y lleno de <br>
   oportunidades por descubrir pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
   
-  ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge/page=bintidev.bintidev&label=visitantes&labelColor=000000&color=1D70B8&style=for-the-badge)
-  
 </div>
