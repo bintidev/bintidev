@@ -10,7 +10,7 @@
 </div>
 
 
-### Aprendiz de desarrollo y estética web</h3>
+### ⭐ Aprendiz de desarrollo y diseño web</h3>
 
 Estudiante de Segundo Ciclo de Desarrollo de Aplicaciones Web en IES Playamar.
     
