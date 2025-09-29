@@ -31,7 +31,7 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   
   ## 💻 Lenguajes y Tecnologías</h2>
   ### 💡 Conocidas y Trabajadas
-  ![Habilidades](https://skillicons.dev/icons?i=html,css,java,javascript,mysql,python,git,github,ubuntu,linux,debian,vscode,eclipse,wordpress&theme=dark&perline=7)
+  ![Habilidades](https://skillicons.dev/icons?i=html,css,java,javascript,mysql,python,ubuntu,vscode,eclipse,wordpress&theme=dark&perline=5)
 
   
   ### ⚙️ En Proceso de Aprendizaje
