@@ -38,6 +38,7 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   ![Aprendiendo](https://skillicons.dev/icons?i=php,bootstrap,sass,laravel&theme=dark)
 
 > NOTA: Especialmente me apasiona el frontend <br>
+>
 > En un futuro (no tan lejano, espero), planeo especializarme en el desarrollo del lado cliente
 
 <br>
