@@ -47,8 +47,8 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   
   ## 📊 Mis Estadísticas
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bintidev&hide_border=true&show_icons=true&theme=merko" alt="stats" style="width: 500px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bintidev&layout=compact&card_width=320&langs_count=20&theme=merko&hide_border=true" alt="languages graph" style="width: 465.55px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintidev&hide_border=true&show_icons=true&theme=merko" alt="stats" style="width: 495px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bintidev&layout=compact&card_width=320&langs_count=20&theme=merko&hide_border=true" alt="languages graph" style="width: 397.55px;"/>
   
 </div>
 
