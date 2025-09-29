@@ -77,8 +77,10 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
 <div align="center">
   
   ### ¿Te has quedado con ganas de más?
-  Acompáñame en este viaje de crecimiento y lleno de <br>
-  oportunidades por descubrir pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
+  Mantente al tanto de mi aprendizaje <br>
+  y trabajos pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
+
+  ![Visitors](https://img.shields.io/github/watchers/bintidev/bintidev?style=for-the-badge&label=visitors&color=6DBA25)
 
   <br>
 
