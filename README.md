@@ -1,6 +1,6 @@
 <div align="center">
   
-# Bienvenid@, &lt;dev/&gt; 👋🏾</h1>
+# Bienvenid@, &lt;/dev&gt; 👋🏾</h1>
 ![banner](./soy_yo.png)
 
 ![Static Badge](https://img.shields.io/badge/codificando-proyectos_de_clase-6DBA25?style=for-the-badge)
@@ -12,20 +12,18 @@
 
 ### ⭐ Aprendiz de desarrollo y diseño web</h3>
 
-Estudiante de Segundo Ciclo de Desarrollo de Aplicaciones Web en IES Playamar.
+Estudiante de Segundo Ciclo de Desarrollo de Aplicaciones Web en IES Playamar
     
-Mi viaje adentrándome al mundo de la informática dió comienzo en 2022, en grado medio. Desde ese  momento, <br>
-he absorbido conocimiento de profesores, cursos, contenido de desarrolladores de alto perfil, e incontables <br>
-"prácticas al fallo". Actualmente, continúo aprendiendo nuevas habilidades y  tecnologías para mantenerme <br>
-a la última en este sector de rápido crecimiento y constante innovación. <br>
+Programando y estudiando desde 2023 hasta ahora con años aún por venir, emprendo mi viaje en el mundo de <br>
+la informática como desarrolladora web junior con ganas de aprender y mucho entusiasmo
 
 <br>
 
 ## 🧕🏾 Sobre Mí
-  - Entusiasta del diseño y la estética 🎨
-  - Cerebro inquieto siempre en busca de conocimiento 🧠
-  - I ❤ Databases
-  - Coleccionadora de cursos y certificados 🎓
+  - Me apasiona todo aquello que deje flipando en ***colores*** a cualquier que ponga el ojo sobre mis proyectos ✨
+  - **Curiosa** e **inquieta**, sedienta de conocimiento beneficioso a mi **crecimiento profesional** y **personal** 🧠
+  - Puede que adore la parte visual... Pero las **bases de datos** siempre serán mi primer amor ❤
+  - Actualizando constantemente mi conocimiento con colecciones de cursos y certificados 🎓
 
 <br>
   
@@ -39,7 +37,7 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
 
 > NOTA: Especialmente me apasiona el frontend <br>
 >
-> En un futuro (no tan lejano, espero), planeo especializarme en el desarrollo del lado cliente
+> A lo mejor, algún día, me atrevo a mojar los pies en el campo de diseño gráfico 😉
 
 <br>
 
@@ -55,10 +53,10 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
 <br>
 
 ## 💭 Estoy siempre dispuesta a...
-  - Poner a prueba mi pensamiento lógico con diferentes retos de programación
-  - Pulir y perfeccionar la funcionalidad, estructura y visibilidad de mis proyectos
-  - Recibir críticas constructivas y sugerencias para mejorar mi estilo de trabajo
-  - Conectar con miembros de la comunidad de los que adquirir nuevas habilidades
+  - Poner a prueba mi pensamiento lógico con diferentes retos de programación 🤔
+  - Pulir y perfeccionar la funcionalidad, organización y visualidad de mis proyectos 💯
+  - Recibir críticas constructivas y sugerencias para mejorar mi estilo de trabajo ✔
+  - Conectar con miembros de la comunidad y colaborar en productos abiertos a uso libre 👩🏾‍🤝‍👩🏻
 
 <br>
 <br>
@@ -67,7 +65,7 @@ a la última en este sector de rápido crecimiento y constante innovación. <br>
   
   ## ¿Nos echamos unas risas? 😆
   Reírse aumenta el oxígeno en el cuerpo, y reduce el estrés y el dolor <br>
-  Tómate un descanso de los bugs con un poco de humor informático ;)
+  Tómate un respiro de tanto bug con un poco de humor ;)
 
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko" alt="jokes" style="width: 500px;"/>
   
