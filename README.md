@@ -83,7 +83,7 @@ la informática como desarrolladora web junior con ganas de aprender y mucho ent
   Mantente al tanto de mi aprendizaje <br>
   y trabajos pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
 
-  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbintidev&label=Visitor&icon=eyeglasses&color=%6DBA25&message=&style=for-the-badge)
+  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbintidev&label=Visitors&icon=eyeglasses&color=%6DBA25&message=&style=for-the-badge)
 
   <br>
 
