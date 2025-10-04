@@ -3,9 +3,9 @@
 # Bienvenid@, &lt;/dev&gt; 👋🏾</h1>
 ![banner](./soy_yo.png)
 
-![Static Badge](https://img.shields.io/badge/codificando-proyectos_de_clase-6DBA25?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/codificando-proyectos_de_clase-557433?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/prioridad-estudios-557433?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/meta-contribuir_a_la_comunidad-1E3310?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/meta-contribuir_a_la_comunidad-557433?style=for-the-badge)
 
 </div>
 
@@ -26,6 +26,8 @@ la informática como desarrolladora web junior con ganas de aprender y mucho ent
   - Actualizando constantemente mi conocimiento con colecciones de cursos y certificados 🎓
 
 <br>
+
+<div align="center">
   
   ## 💻 Lenguajes y Tecnologías</h2>
   ### 💡 Conocidas y Trabajadas
@@ -34,10 +36,12 @@ la informática como desarrolladora web junior con ganas de aprender y mucho ent
   
   ### ⚙️ En Proceso de Aprendizaje
   ![Aprendiendo](https://skillicons.dev/icons?i=php,bootstrap,sass,laravel&theme=dark)
+  
+</div>
 
-> NOTA: Especialmente me apasiona el frontend <br>
->
-> A lo mejor, algún día, me atrevo a mojar los pies en el campo de diseño gráfico 😉
+> Refamiliarizándome continuamente con estas tecnologías
+> 
+> ... más pendiente en frameworks y tecnologías frontend :P
 
 <br>
 
@@ -79,7 +83,7 @@ la informática como desarrolladora web junior con ganas de aprender y mucho ent
   Mantente al tanto de mi aprendizaje <br>
   y trabajos pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
 
-  ![Visitors](https://img.shields.io/github/watchers/bintidev/bintidev?style=for-the-badge&label=visitors&color=6DBA25)
+  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbintidev%2Fbintidev&label=Visitor&icon=eyeglasses&color=%6DBA25&message=&style=for-the-badge)
 
   <br>
 
