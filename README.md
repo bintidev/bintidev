@@ -3,9 +3,9 @@
 # Bienvenid@, &lt;/dev&gt; 👋🏾</h1>
 ![banner](./soy_yo.png)
 
-![Static Badge](https://img.shields.io/badge/codificando-proyectos_de_clase-557433?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/prioridad-estudios-557433?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/meta-contribuir_a_la_comunidad-557433?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/codificando-proyectos_de_clase-72b01d?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/prioridad-estudios-38b000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/meta-contribuir_a_la_comunidad-008000?style=for-the-badge)
 
 </div>
 
@@ -83,7 +83,7 @@ la informática como desarrolladora web junior con ganas de aprender y mucho ent
   Mantente al tanto de mi aprendizaje <br>
   y trabajos pasándote por <a href="https://github.com/bintidev?tab=repositories" alt="Mi perfil">aquí</a> <3
 
-  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbintidev%2Fbintidev&label=Visitor&icon=eyeglasses&color=%6DBA25&message=&style=for-the-badge)
+  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fbintidev&label=Visitor&icon=eyeglasses&color=%6DBA25&message=&style=for-the-badge)
 
   <br>
 
