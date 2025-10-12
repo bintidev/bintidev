@@ -11,7 +11,7 @@
 
 ### ⭐ Web Design and Development Student
 
-Second year student of Web Applications Development at IES Playamar
+I'm Binta, a second year student of Web Applications Development at IES Playamar
 
 Been studying and programming since 2023, with many years still to come <br>
 Starting off my journey as a junior web dev with enthusiasm and super-eager to keep learning!
