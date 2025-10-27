@@ -13,13 +13,13 @@
 
 I'm Binta, a second year student of Web Applications Development at IES Playamar
 
-Been studying and programming since 2023, with many years still to come <br>
-Starting off my journey as a junior web dev with enthusiasm and super-eager to keep learning!
+Developer on the making. I'm mostly inclined towards artsy and creative stuff, so you'll find <br>
+me wherever colors and animations come together to create the most vibrant user interfaces!
 
 <br>
 
 ## 🧕🏾 About Me
-  + ✨ Pasionate about anything that involves leaving people **stunned** at the sight of my projects
+  + ✨ “Not popping, not me”. My signature mark is to make things pop out, one way or another!
   + 🧠 **Curious** and **restless**, thirsty for beneficial knowledge on whatever aspect it may come
   + ❤ I may love visuality, but **databases** will _always_ have a special place in my heart
   + 🎓 Constantly keeping my ___knowledge up to date___ (courses and certificates chronical collector)
@@ -47,7 +47,7 @@ Starting off my journey as a junior web dev with enthusiasm and super-eager to k
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bintidev&hide_border=true&show_icons=true&theme=vue-dark" alt="stats" style="width: 495px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintidev&hide_border=true&show_icons=true&theme=vue-dark" alt="stats" style="width: 490px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bintidev&layout=compact&card_width=320&langs_count=20&theme=vue-dark&hide_border=true" alt="languages graph" style="width: 397.55px;"/>
   
 </div>
