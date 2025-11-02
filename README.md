@@ -19,10 +19,10 @@ me wherever colors and animations come together to create the most vibrant user 
 <br>
 
 ## 🧕🏾 About Me
-  + ✨ “Not popping, not me”. My signature mark is to make things pop out, one way or another!
-  + 🧠 **Curious** and **restless**, thirsty for beneficial knowledge on whatever aspect it may come
-  + ❤ I may love visuality, but **databases** will _always_ have a special place in my heart
-  + 🎓 Constantly keeping my ___knowledge up to date___ (courses and certificates chronical collector)
+✨ “If it's not vibrant, the it's not for me”. Yes, I just **LOVE** making everything vivid! <br>
+🧠 **Curious** and **restless**, thirsty for beneficial knowledge on whatever aspect it may come <br>
+❤ I may love visuality, but **databases** will _always_ have a special place in my heart <br>
+🎓 Constantly keeping my ___knowledge up to date___ (courses and certificates chronical collector) <br>
 
 <br>
   
@@ -55,10 +55,11 @@ me wherever colors and animations come together to create the most vibrant user 
 <br>
 
 ## 💭 Always willing to...
-  1. Test my logic reasoning with new programming excercises and challenges 🤔
-  2. Refine and perfect the functionality, organization and visuality of my projects 💯
-  3. Welcome feedback and suggestions to improve my working system ✔
-  4. Connect with other members accross the community and collab on open source code 👩🏾‍🤝‍👩
+  + Test my logic reasoning with new programming excercises and challenges 🤔
+  +  Refine and perfect the functionality, organization and visuality of my projects 💯
+  +  Work on amazing and creative projects, and trying out new technologies 🎇
+  + Welcome feedback and suggestions to improve my working system ✔
+  + Connect with other members accross the community and collab on open source code 👩🏾‍🤝‍👩
 
 <br>
 
