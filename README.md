@@ -19,7 +19,7 @@ me wherever colors and animations come together to create the most vibrant user 
 <br>
 
 ## 🧕🏾 About Me
-✨ “If it's not vibrant, the it's not for me”. Yes, I just **LOVE** making everything vivid! <br>
+✨ “If it's not vibrant, then it's not for me”. Yes, I just **LOVE** making everything vivid! <br>
 🧠 **Curious** and **restless**, thirsty for beneficial knowledge on whatever aspect it may come <br>
 ❤ I may love visuality, but **databases** will _always_ have a special place in my heart <br>
 🎓 Constantly keeping my ___knowledge up to date___ (courses and certificates chronical collector) <br>
@@ -31,15 +31,9 @@ me wherever colors and animations come together to create the most vibrant user 
 <div align="center">
     
   ### 💡 Known and Familiar
-  ![Habilidades](https://skillicons.dev/icons?i=html,css,java,javascript,mysql,python,ubuntu,vscode,eclipse,git,debian,wordpress&theme=dark&perline=6)
-
-  
-  ### ⚙️ Learning Phase
-  ![Aprendiendo](https://skillicons.dev/icons?i=php,bootstrap,sass,laravel&theme=dark)
+  ![Habilidades](https://skillicons.dev/icons?i=html,css,java,javascript,php,mysql,python,django,bootstrap,sass,ubuntu,vscode,eclipse,git,debian,wordpress&theme=dark&perline=6)
   
 </div>
-
-> ... mostly focused on frontend and UI/UX design technologies :P
 
 <br>
   
@@ -90,7 +84,6 @@ me wherever colors and animations come together to create the most vibrant user 
   <br><br>
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binta-diop-715741307/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bd90962@gmail.com?subject=Heyo!)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bintidev/)
 
   <br>
 
